@@ -1,6 +1,3 @@
-# Coursework 1
+# Implementation of wordle in java
 
-Put all of the files for Coursework 1 in this directory.
-
-If the coursework specification gives you instructions for how to organise
-your files, please follow those instructions precisely.
+Coursework 1 of object oriented programming. Learning to use java.
